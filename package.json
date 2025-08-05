@@ -45,10 +45,10 @@
   "devDependencies": {
     "@types/babel__core": "^7.20.0",
     "@types/headroom.js": "^0.12.2",
-    "@types/node": "^18.14.1",
-    "@types/react": "^18.0.28",
+    "@types/node": "^18.19.121",
+    "@types/react": "^18.3.23",
     "@types/react-lottie": "^1.2.6",
-    "eslint": "7.32.0",
+    "eslint": "^7.32.0",
     "eslint-config-next": "11.1.2",
     "eslint-config-prettier": "^8.6.0",
     "prettier": "2.8.4",
