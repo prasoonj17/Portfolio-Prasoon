@@ -143,8 +143,8 @@ export const seoData: SEODataType = {
   title: "Prasoon Jain | Full Stack Developer Portfolio",
   description: greetings.description,
   author: "Prasoon Jain",
-  image: "https://avatars.githubusercontent.com/u/59178380?v=4",
-  url: "https://developer-portfolio-1hanzla100.vercel.app",
+  image: "https://drive.google.com/file/d/1aRWBQntL3hn52gK8216nTfxz5WJ7kKsh/view?usp=sharing",
+  url: "",
   keywords: [
     "Prasoon Jain",
     "Full Stack Developer",
