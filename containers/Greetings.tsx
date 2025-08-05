@@ -4,7 +4,7 @@ import { Button, Container, Row, Col } from "reactstrap";
 import SocialLinks from "../components/SocialLinks";
 
 const Greetings = () => {
-  const imageRef = useRef(null);
+const imageRef = useRef<HTMLImageElement | null>(null);
 
   useEffect(() => {
     document.documentElement.scrollTop = 0;
